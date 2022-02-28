@@ -1,2 +1,1 @@
-My name is Pradyumn Goyal
-My favorite meal is Chicken
+This is a 8 picee solver using various search stretegies, and methods
